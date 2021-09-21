@@ -1,0 +1,13 @@
+body {
+  background-image: url('../images/roll.gif');
+  height: 98vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.slider {
+  width: 99%;
+  height: 25px;
+  background: yellow;
+  outline: none;
+}

@@ -1,0 +1,12 @@
+body {
+  background-image: url('../images/vinyl.gif');
+}
+
+.copyright_fill {
+  font-family: sans-serif;
+  font-size: 20px;
+  height: 98vh;
+  width: 100vw;
+  overflow: hidden;
+  color: #ffffff2e;
+}
